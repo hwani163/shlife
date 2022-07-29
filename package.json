@@ -2,6 +2,7 @@
   "name": "muse-ant-design-dashboard",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://hwani163.github.io/shlife/",
   "dependencies": {
     "@ant-design/icons": "^4.6.2",
     "@craco/craco": "6.4.3",
